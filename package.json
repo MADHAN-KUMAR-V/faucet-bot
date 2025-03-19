@@ -1,13 +1,12 @@
 {
-  "name": "faucet-bot",
+  "name": "viefaucet",
   "version": "1.0.0",
-  "description": "Automated bot using axios and puppeteer",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "axios": "^1.6.0",
-    "puppeteer": "^21.0.0"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
